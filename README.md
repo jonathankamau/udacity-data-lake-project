@@ -27,8 +27,8 @@ In order to have a copy of the project up and running locally, you will need to 
    - Set your AWS access and secret key in the config file. 
         ```
         [AWS]
-        KEY =<your aws key>
-        SECRET =<your aws secret>
+        AWS_ACCESS_KEY_ID = <your aws key>
+        AWS_SECRET_ACCESS_KEY = <your aws secret>
         ```
 
 ### Installation
